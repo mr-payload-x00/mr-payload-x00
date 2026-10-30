@@ -6,11 +6,12 @@ Independent security researcher from Gazipur, Bangladesh. Self-taught, focused o
 - Web application security (CSRF, IDOR/BOLA, business logic, template injection)
 - Checkout and order-flow logic in e-commerce platforms
 - Vulnerability disclosure through vendor VDP programs
+- Currently learning low-level and exploit development fundamentals
 
 ### Track record
-- Paid bounties from two European companies (one German e-commerce and hosting provider, one German shop software vendor)
-- Multiple independent findings across roughly 14 self-hosted and vendor-run targets
-- Independent discovery of issues in a major search platform (reported as duplicate)
+- Around 14 self-hosted and vendor-run targets tested, with roughly 50 findings reported
+- Two paid bounties from European companies
+- Several reports are still awaiting vendor response or fix; details are withheld until disclosure windows close
 
 ### How I work
 - Manual testing first. Scanners and fuzzing are not part of my workflow.
